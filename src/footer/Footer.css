@@ -1,0 +1,108 @@
+.container-footer{
+    background-color: rgb(253, 238, 21);
+    color:black;
+    margin-top:1000px;
+    height:750px;
+    padding-top:20px;
+   font-family: Arial, Helvetica, sans-serif;
+   border-radius:13px;
+  
+}
+.nav-footer{
+    text-align: center; 
+    font-size:20px;
+    padding-right:300px; 
+}
+.ul-footer{
+       display: inline-flex;
+       list-style:none;   
+     
+}
+.link-footer {
+       margin-left:200px;
+       text-decoration: none; 
+       color: rgb(196, 32, 32);
+      
+}
+.link-footer:hover{
+        border-bottom: 3px solid red;
+        color: black;
+}
+
+/* 
+    style nav-ul-1
+*/
+.ul-footer-1{
+       display: block;
+       list-style: none;
+       margin-left:300px;
+       
+       
+}
+.link-footer-1{
+       text-decoration: none;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       
+}
+.link-footer-1:hover{
+       border-bottom: 3px solid red;
+       color: black;
+     
+}
+/* 
+    style nav-ul-2
+*/
+.ul-footer-2{
+    display: block;
+    list-style: none;
+    margin-left:770px;
+    margin-top: -180px;
+}
+.link-footer-2{
+      text-decoration: none;
+}
+.link-footer-2:hover{
+        border-bottom: 3px solid green;
+        color: black;
+}
+/* 
+    style nav-ul-3
+*/
+.ul-footer-3{
+    display: block;
+    list-style: none;
+    margin-left:1140px;
+    margin-top: -170px;
+}
+.link-footer-3{
+      text-decoration: none;
+}
+.link-footer-3:hover{
+       border-bottom: 3px solid rgb(177, 115, 115);
+}
+/* 
+    style nav-ul-4
+*/
+.ul-footer-4{
+    display: block;
+    list-style: none;
+    margin-left:1390px;
+    margin-top: -490px;  
+}
+.link-footer-4{
+     text-decoration: none;
+}
+.link-footer-4:hover{
+      border-bottom: 3px solid rgb(32, 176, 238);
+}
+/*   style icons */
+.icons-footer{
+    margin-top:300px; 
+    text-align: center;  
+} 
+.icon-footer{
+     margin-left: 40px;
+     font-size: 40px;
+     
+}
+
